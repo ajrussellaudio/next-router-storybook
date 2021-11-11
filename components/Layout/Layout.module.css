@@ -1,0 +1,6 @@
+.layout {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
